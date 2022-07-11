@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "questionText": "Какой группе принадлежит песня Before I Forget?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Slipknot",
+        "type": true
+      },
+      {
+        "id": 2,
+        "text": "Skillet",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "Disturbed",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": " System of a Down",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "questionText": "В какой альбом входит песня группы Green Day - Jesus od Suburbia?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Dookie",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "Father of all",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "American Idiot",
+        "type": true
+      },
+      {
+        "id": 4,
+        "text": "21st Century Breakdown",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "questionText": "В каком году вышел альбом The Black Album группы Metallica?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "2003 г.",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "2016 г.",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "1991 г.",
+        "type": true
+      },
+      {
+        "id": 4,
+        "text": "1986 г.",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "questionText": "Как зовут вокалиста группы Skillet?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Стивен Перси Харрис",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "Джон Ландрум Купер",
+        "type": true
+      },
+      {
+        "id": 3,
+        "text": "Кори Тодд Тейлор",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "Джейкоб Сет Моррисон",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "questionText": "В какой альбом входит песня гурппы Iron Maiden - Wasting Love?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Powerslave",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "Rock in Rio",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "Fear of the Dark",
+        "type": true
+      },
+      {
+        "id": 4,
+        "text": "Somewhere in the Time",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "questionText": "В какой группе НЕ БЫЛ певец Глен Данцинг?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Judas Priest",
+        "type": true
+      },
+      {
+        "id": 2,
+        "text": "Misfits",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "Danzig",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "Samhain",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "questionText": "Как зовут вокалиста группы Queen?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Брайан Мэй",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "Роджер Тейлор",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "Джон Дикон",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "Фредди Меркьюри",
+        "type": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "questionText": "Из какой страны группа Sex Pistols?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "США",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "Россия",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "Франция",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "Великобритания",
+        "type": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "questionText": "В каком жанре пел Варг Викернес?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Индастриал-метал",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "Блэк-метал",
+        "type": true
+      },
+      {
+        "id": 3,
+        "text": "Ню-метал",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "Панк-рок",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "questionText": "В каком году была основана группа Powerwolf?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "1999 г.",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "2003 г.",
+        "type": true
+      },
+      {
+        "id": 3,
+        "text": "2005 г.",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "1981 г.",
+        "type": false
+      }
+    ]
+  } ,
+  {
+    "id": 11,
+    "questionText": "Какая песня не принадлежит группе Disturbed?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Awake and Alive",
+        "type": true
+      },
+      {
+        "id": 2,
+        "text": "Land Of Confusion",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "The Vengeful One",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "The Brave And The Bold",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "questionText": "О чем поет группа Sabaton?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "О сатанизмe и оккультизме",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "О военных сражениях",
+        "type": true
+      },
+      {
+        "id": 3,
+        "text": "О христианстве",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "О важности и ценности семьи",
+        "type": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "questionText": "С кем был конфликт у группы GUNS N'ROSES?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "C группой Nirvana",
+        "type": true
+      },
+      {
+        "id": 2,
+        "text": "C правительством США",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "С группой Mushroomhead",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "С группой The Clash",
+        "type": false
+      }
+    ]
+  }  ,
+  {
+    "id": 14,
+    "questionText": "Какой группе принадлежит песня Burn, написанная для фильма Ворон?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "Drowning Pool",
+        "type": false
+      },
+      {
+        "id": 2,
+        "text": "Rage Against the Machine",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "The Cure",
+        "type":  true
+      },
+      {
+        "id": 4,
+        "text": "The Killers",
+        "type": false
+      }
+    ]
+  } ,
+  {
+    "id": 15,
+    "questionText": "В каком году была основана группа The Beatles?",
+    "answers": [
+      {
+        "id": 1,
+        "text": "В 1960",
+        "type": true
+      },
+      {
+        "id": 2,
+        "text": "В 1970",
+        "type": false
+      },
+      {
+        "id": 3,
+        "text": "В 1965",
+        "type": false
+      },
+      {
+        "id": 4,
+        "text": "В 1955",
+        "type": false
+      }
+    ]
+  }
+]

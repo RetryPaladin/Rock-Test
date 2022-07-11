@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rock test</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<div class="timer">
+
+  <div class="time hour">
+    00
+  </div>
+
+  <span>:</span>
+
+
+  <div class="time minute">
+    00
+  </div>
+
+  <span>:</span>
+
+
+  <div class="time second">
+    00
+  </div>
+
+  <div class="time milisecond">
+    00
+  </div>
+
+
+</div>
+
+  <div class="start__inner">
+    <p class="start__text">
+      Добро пожаловать на тестирование. Здесь вас ждут вопросы связанные с музыкальными рок-группами.
+    </p>
+    <h3 class="options__title">
+      Выберите уровень сложности:
+    </h3>
+    <form name="options" class="options">
+      
+      <input type="radio" name="options" id="five-answers" class="options__item" checked>
+      <label for="five-answers" class="options__btn  first">
+          <span class="options__text"> 5 вопросов </span>
+      </label>
+      <input type="radio" name="options" id="ten-answers" class="options__item ">
+      <label class="options__btn second" for="ten-answers">
+        <span class="options__text"> 10 вопросов</span>
+      </label>
+      <input type="radio" name="options" id="fiveteen-answers" class="options__item">
+      <label class="options__btn third" for="fiveteen-answers">
+         <span class="options__text">15 вопросов </span>
+      </label>
+    </form>
+    <button class="start" id="start">
+      Начать тест
+    </button>
+  </div>
+
+  <section class="questions__inner">
+    <div class="question">
+
+    </div>
+
+    <div class="answers__inner">
+      <form class="answers" name="answers">
+        <label class="answer">
+          <input id="0" class="answers__item answer__input" type="radio" name="answers">
+          <span class="answer__text"></span>
+        </label>
+        <label class="answer">
+          <input id="1" class="answers__item answer__input" type="radio" name="answers">
+          <span class="answer__text"></span>
+        </label>
+        <label  class="answer">
+          <input id="2" class="answers__item answer__input" type="radio" name="answers">
+          <span class="answer__text"></span>
+        </label>
+        <label  class="answer">
+          <input id="3" class="answers__item answer__input" type="radio" name="answers">
+          <span class="answer__text"></span>
+        </label>
+      </form>
+    </div>
+
+    <div class="buttons">
+      <div class="buttons__left">
+        <button class="button answer-back" disabled>
+          Назад
+        </button>
+        <button class="button answer-next">
+          Далее
+        </button>
+      </div>
+
+      <button class="button end-test">
+        Завершить тест
+      </button>
+    </div>
+    <div class="counter"></div>
+
+  </section>
+
+  <div class="container">
+    <div class="result__wrapper">
+      <h3 class="end__title">
+        Тест завершен!
+      </h3>
+      <div class="results__time">
+
+      </div>
+      <div class="results">
+
+      </div>
+
+      <div class="results__right-answer"></div>
+
+      <button class="button results__restart">Начат заново</button>
+    </div>
+
+  </div>
+
+  <script src="js/timer.js"></script>
+  <script src="js/main.js"></script>
+ 
+</body>
+
+</html>
